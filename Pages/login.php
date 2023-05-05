@@ -25,6 +25,8 @@
                 unset($_SESSION['message']);
             }?>
             </p>
+            <p>Have a Pro-Account?</p>
+            <a class=box href="prologin.php">Login Here</a>
         </div>
         <footer>jsoltre1@broncos.uncfsu.edu CSC470</footer>
     </body>

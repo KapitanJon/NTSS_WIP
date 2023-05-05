@@ -44,3 +44,46 @@ p{
     color: whitesmoke;
 
 }
+.smallbox{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(75, 74, 72);
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+}
+.mediumbox{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(75, 74, 72);
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+}
+a.mediumbox{
+    text-decoration: none;
+}
+th{
+    background-color: rgb(75, 74, 72);
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+
+}
+.centertable{
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    background-color: rgb(75, 74, 72);
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+}

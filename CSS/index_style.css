@@ -36,3 +36,26 @@ footer{
     height: 20px;
     background-color: rgb(75, 74, 72);
 }
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
+
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-decoration: underline;
+    text-align: center;
+
+}
+.box{
+    height: 350px;
+    width: 450px;
+    background-color: rgb(75, 74, 72);
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+}

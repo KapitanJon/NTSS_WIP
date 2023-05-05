@@ -9,7 +9,9 @@
             <a href="signup.php" class= "banner">Signup</a>
         </div>
         <header>Success</header>
-        <p>Please proceed to the login page.</p>
+        <p>Please proceed to the Pro-User login page.</p>
+        <a href="prologin.php">Here!</a>
         <footer>jsoltre1@broncos.uncfsu.edu CSC470</footer>
     </body>    
 </html>
+<?php session_destroy();?>

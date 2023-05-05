@@ -44,3 +44,9 @@ p{
     color: whitesmoke;
 
 }
+a.box{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-decoration: none;
+
+}

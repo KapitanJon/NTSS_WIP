@@ -17,16 +17,20 @@
             <a>Find Event</a>
         </div><br>
         <div class="mediumbox">
-            <a class="mediumbox" href="eventregistration.php">Register for event</a>
+            <a>register for event</a>
         </div><br>
         <div class="mediumbox">
-            <a class="mediumbox" href="account.php">View account</a>
+            <a class="mediumbox" href="proaccount.php">View account</a>
         </div><br>
-        <p><?php if(isset($_SESSION['message'])){
-                echo $_SESSION['message'];
-                unset($_SESSION['message']);
-            }?>
-            </p>
+        <div class="mediumbox">
+            <a class="mediumbox" href="createvent.php">Create Event</a>
+        </div><br>
+        <div class="mediumbox">
+            <a class="mediumbox" href="aboutevents.php">About Events</a>
+        </div><br>
+        <div class="mediumbox">
+            <a class="mediumbox" href="yourevents.php">Your Events</a>
+        </div><br>
         
 
         <footer>jsoltre1@broncos.uncfsu.edu CSC470</footer>
